@@ -1,0 +1,8 @@
+Terms with highest document frequency:
+['the', 'of', 'in', 'a', 'and', 'to', 'for', 'said', 'on', 'that']
+Terms with lowest document frequency:
+['118410', '50685', 'hostilesounding', 'peacefeeling', 'abnamro', 'privatelymanaged', '33022', '38742', 'early1991', 'interestpayment']
+
+Explanation:
+The terms with highest document frequency are mainly stop words, which is expected.
+The terms with lowest document frequency are numbers, typos (missing spaces) and specific names.
